@@ -1,0 +1,1 @@
+ansible-playbook -i inventory/test.ini ./playbooks/apt-update.yml --private-key ~/.ssh/id_rsa
