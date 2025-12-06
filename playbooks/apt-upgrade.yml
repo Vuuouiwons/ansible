@@ -1,6 +1,6 @@
 ---
 - name: Update apt packages
-  hosts: all
+  hosts: ubuntu
   tasks:
     - name: Update apt package index
       become: true
