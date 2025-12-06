@@ -218,3 +218,7 @@ __marimo__/
 venv
 
 test.ini
+home.ini
+
+.vscode
+local.*
